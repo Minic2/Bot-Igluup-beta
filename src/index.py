@@ -64,4 +64,4 @@ async def on_ready():
 #     if message.content == "negro":
 #         await message.delete()
 
-bot.run('NzQxMDcwMzM0NDMzNjg5NjEx.XyyNiA.aC7LYnsz734MwRt5_jOhe6iSkQQ')
+bot.run('')
